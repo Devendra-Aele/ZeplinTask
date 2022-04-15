@@ -5,7 +5,7 @@
 }
 /* =================== */
 .Card_box{
-    padding-right:40px;
+    padding-right:10px;
 }
 .Card_head{
     display: flex;
@@ -96,7 +96,7 @@ small {
   border-bottom: 1px solid rgb(188, 188, 192);
 }
 .tab_list .tab {
-  padding-right: 70px;
+  padding-right: 50px;
   font-weight: 500;
   cursor: pointer;
   position:relative;
