@@ -9,7 +9,7 @@
 }
 .Card_head{
     display: flex;
-    padding: 5px 5px 5px 10px;
+    padding: 10px 5px 5px 10px;
 }
 .Card_head i{
     color: rgb(167, 68, 224);
@@ -25,7 +25,7 @@
     background-image: radial-gradient(rgb(68, 17, 73), rgb(68, 17, 73),rgb(23, 3, 24) ,rgb(23, 3, 24));
 }
 .card-body {
-  padding: 0px 10px;
+  padding: 0px 20px;
 }
 small {
   font-weight: 700;
@@ -70,6 +70,7 @@ small {
 /* =================== */
 .Text{
     margin: auto;
+    padding-left: 35px !important;
 }
 #contant  {
  background-color: rgb(244, 247, 247);

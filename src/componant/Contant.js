@@ -26,7 +26,7 @@ function Contant() {
                                 </div>
                             </div>
                         </div>
-                        <div className='col-md-9 Text ps-2'>
+                        <div className='col-md-9 Text '>
                             <h2>Astrophysics for People in Hurry's Summary</h2>
                             <h5>Key Insights & Analysis</h5>
                             <p>Kelly Borgan, MD Wwidth Kristin Loberg</p>
