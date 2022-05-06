@@ -18,7 +18,7 @@ function Contant() {
                                         <p className="card-text">Neil De Grasse Tyson</p>
                                     </div>
                                 </div>
-                                <ul className="list-group list-group-flush">
+                                <ul className="list-group list-group-flush 2">
                                     <li className="list-group-item">Key Insights & Analysis</li>
                                 </ul>
                                 <div className='image'>
