@@ -39,6 +39,7 @@ function Contant() {
                             </div>
                             <button className="btn btn-secondary">Business & Finance</button>
                             <button className="btn btn-secondary mx-2">Business & Finance</button>
+                            <button className="btn btn-secondary mx-2">Business & Finance</button>
                         </div>
                     </div>
                 </div>
